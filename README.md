@@ -2,8 +2,8 @@
 
 Recursos utilizados:
 Npm (Gerenciador de pacotes)
-Express (Framework para desenvolvimento de apicaÁıes web)
+Express (Framework para desenvolvimento de apica√ß√µes web)
 Ejs (Engine de views)
 Consign (Auto Loader)
-Body-parser (Midalware que popula vari·vel body com elemtentos de formul·rio)
-Express-validator (Validador de informaÁıes digitadas em formul·rios)
+Body-parser (Middleware que popula vari√°vel body com elemtentos de formul√°rio)
+Express-validator (Validador de informa√ß√µes digitadas em formul√°rios)
